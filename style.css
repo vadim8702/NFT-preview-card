@@ -1,0 +1,14 @@
+* {
+  /* background: hsl(217, 54%, 11%); */
+  border: none;
+  margin: 0;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.card-component {
+  background: hsl(216, 50%, 16%);
+}
